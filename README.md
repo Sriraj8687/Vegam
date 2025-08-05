@@ -9,10 +9,6 @@
 - Java (JDK 17+)
 - MySQL
 - JDBC (Java Database Connectivity)
-- DSA Concepts:
-  - PriorityQueue (Heap)
-  - HashMap / ArrayList
-  - Custom Classes & OOP Principles
 
 ---
 
